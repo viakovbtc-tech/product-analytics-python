@@ -24,4 +24,5 @@ Matplotlib
 ## Author
 
 Viacheslav Kovalchuk
+
 Aspiring Data Analyst
