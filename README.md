@@ -132,6 +132,12 @@ Contains dashboard screenshots and visualization outputs used in the analysis.
 
 ---
 
+## Dashboard
+
+The results are visualized in Tableau ([Link to review](https://public.tableau.com/views/PortfolioProject1_17727109855070/Dashboard1-SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) using an interactive dashboard.
+
+---
+
 ## Skills Demonstrated
 
 This project demonstrates practical skills relevant for a **Junior / Product Data Analyst role**:
